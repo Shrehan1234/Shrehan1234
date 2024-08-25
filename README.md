@@ -84,6 +84,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shrehan1234/Shrehan1234/snake.yml" alt="Snake animation" />
 
 ###
